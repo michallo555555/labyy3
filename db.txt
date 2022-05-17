@@ -1,2 +1,5 @@
 Krzysztof 20
 Janusz 40
+asd 23 2323
+michal 1 12
+mas 2 23
